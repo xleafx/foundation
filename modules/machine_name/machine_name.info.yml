@@ -1,0 +1,11 @@
+name: Machine name
+description: Provides a machine name field.
+package: Field types
+# core: 8.x
+type: module
+
+# Information added by Drupal.org packaging script on 2016-12-02
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'machine_name'
+datestamp: 1480693685
