@@ -4,7 +4,6 @@
     <list default="true" id="b3f3ed93-c5f9-4ee8-babd-4d9e12bef87f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/edgetheme/css/style.css" afterPath="$PROJECT_DIR$/themes/edgetheme/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/edgetheme/less/style.less" afterPath="$PROJECT_DIR$/themes/edgetheme/less/style.less" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,11 +50,26 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/edgetheme/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="1408" column="42" lean-forward="true" selection-start-line="1408" selection-start-column="42" selection-end-line="1408" selection-end-column="42" />
+            <state relative-caret-position="621">
+              <caret line="52" column="66" lean-forward="false" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
+              <caret line="1189" column="54" lean-forward="false" selection-start-line="1189" selection-start-column="54" selection-end-line="1189" selection-end-column="54" />
+              <caret line="1194" column="54" lean-forward="false" selection-start-line="1194" selection-start-column="54" selection-end-line="1194" selection-end-column="54" />
+              <caret line="1199" column="58" lean-forward="false" selection-start-line="1199" selection-start-column="58" selection-end-line="1199" selection-end-column="58" />
+              <caret line="1203" column="58" lean-forward="false" selection-start-line="1203" selection-start-column="58" selection-end-line="1203" selection-end-column="58" />
+              <caret line="1209" column="58" lean-forward="false" selection-start-line="1209" selection-start-column="58" selection-end-line="1209" selection-end-column="58" />
+              <caret line="1209" column="138" lean-forward="false" selection-start-line="1209" selection-start-column="138" selection-end-line="1209" selection-end-column="138" />
+              <caret line="1213" column="58" lean-forward="false" selection-start-line="1213" selection-start-column="58" selection-end-line="1213" selection-end-column="58" />
+              <caret line="1217" column="58" lean-forward="false" selection-start-line="1217" selection-start-column="58" selection-end-line="1217" selection-end-column="58" />
+              <caret line="1221" column="58" lean-forward="false" selection-start-line="1221" selection-start-column="58" selection-end-line="1221" selection-end-column="58" />
+              <caret line="1221" column="138" lean-forward="false" selection-start-line="1221" selection-start-column="138" selection-end-line="1221" selection-end-column="138" />
+              <caret line="1224" column="54" lean-forward="false" selection-start-line="1224" selection-start-column="54" selection-end-line="1224" selection-end-column="54" />
+              <caret line="1230" column="54" lean-forward="false" selection-start-line="1230" selection-start-column="54" selection-end-line="1230" selection-end-column="54" />
+              <caret line="1237" column="54" lean-forward="false" selection-start-line="1237" selection-start-column="54" selection-end-line="1237" selection-end-column="54" />
+              <caret line="1248" column="54" lean-forward="false" selection-start-line="1248" selection-start-column="54" selection-end-line="1248" selection-end-column="54" />
+              <caret line="1257" column="54" lean-forward="false" selection-start-line="1257" selection-start-column="54" selection-end-line="1257" selection-end-column="54" />
               <folding>
-                <marker date="1482333844544" expanded="true" signature="46465:46489" ph="..." />
-                <marker date="1482333844544" expanded="true" signature="46470:46489" ph="..." />
+                <marker date="1482397369294" expanded="true" signature="46348:46372" ph="..." />
+                <marker date="1482397369294" expanded="true" signature="46353:46372" ph="..." />
               </folding>
             </state>
           </provider>
@@ -99,6 +113,13 @@
       <find>views-element-container</find>
       <find>node-listing-map</find>
       <find>views-blockcompanies-block-1</find>
+      <find>categor</find>
+      <find>block-views-blockcategories-block-1</find>
+      <find>view-categories-front</find>
+      <find>.region-front-page .block-views-blockcategories-block-1</find>
+      <find>block-views-blocklocations-block-1</find>
+      <find>.region-front-page .block-views-blocklocations-block-1</find>
+      <find>.path-frontpage .view-listings-everywhere .views-row</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -224,6 +245,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -341,7 +363,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -436,7 +457,8 @@
       <workItem from="1481979136982" duration="185000" />
       <workItem from="1482131695719" duration="20833000" />
       <workItem from="1482304437858" duration="7933000" />
-      <workItem from="1482312447031" duration="16828000" />
+      <workItem from="1482312447031" duration="17211000" />
+      <workItem from="1482391373601" duration="5675000" />
     </task>
     <task id="LOCAL-00001" summary="Reserv 14.12">
       <created>1481717949702</created>
@@ -456,7 +478,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106102000" />
+    <option name="totallyTimeSpent" value="112160000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,7 +493,7 @@
     <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28026533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2835821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.51520175" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -525,11 +547,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/edgetheme/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="25344">
+          <caret line="1408" column="42" lean-forward="false" selection-start-line="1408" selection-start-column="42" selection-end-line="1408" selection-end-column="42" />
           <folding>
-            <marker date="1482333844544" expanded="true" signature="46465:46489" ph="..." />
-            <marker date="1482333844544" expanded="true" signature="46470:46489" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46348:46372" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46353:46372" ph="..." />
           </folding>
         </state>
       </provider>
@@ -579,8 +601,59 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1482333844544" expanded="true" signature="46465:46489" ph="..." />
-            <marker date="1482333844544" expanded="true" signature="46470:46489" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46348:46372" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46353:46372" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/edgetheme/less/lessc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/edgetheme/edgetheme.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/edgetheme/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3510">
+          <caret line="195" column="0" lean-forward="false" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/edgetheme/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/edgetheme/less/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148392">
+          <caret line="8244" column="0" lean-forward="false" selection-start-line="8244" selection-start-column="0" selection-end-line="8244" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/edgetheme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482397369294" expanded="true" signature="46348:46372" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46353:46372" ph="..." />
           </folding>
         </state>
       </provider>
@@ -622,8 +695,8 @@
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <marker date="1482333844544" expanded="true" signature="46465:46489" ph="..." />
-            <marker date="1482333844544" expanded="true" signature="46470:46489" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46348:46372" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46353:46372" ph="..." />
           </folding>
         </state>
       </provider>
@@ -657,8 +730,8 @@
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <marker date="1482333844544" expanded="true" signature="46465:46489" ph="..." />
-            <marker date="1482333844544" expanded="true" signature="46470:46489" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46348:46372" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46353:46372" ph="..." />
           </folding>
         </state>
       </provider>
@@ -692,8 +765,8 @@
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <marker date="1482333844544" expanded="true" signature="46465:46489" ph="..." />
-            <marker date="1482333844544" expanded="true" signature="46470:46489" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46348:46372" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46353:46372" ph="..." />
           </folding>
         </state>
       </provider>
@@ -850,11 +923,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/edgetheme/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="1408" column="42" lean-forward="true" selection-start-line="1408" selection-start-column="42" selection-end-line="1408" selection-end-column="42" />
+        <state relative-caret-position="621">
+          <caret line="52" column="66" lean-forward="false" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
+          <caret line="1189" column="54" lean-forward="false" selection-start-line="1189" selection-start-column="54" selection-end-line="1189" selection-end-column="54" />
+          <caret line="1194" column="54" lean-forward="false" selection-start-line="1194" selection-start-column="54" selection-end-line="1194" selection-end-column="54" />
+          <caret line="1199" column="58" lean-forward="false" selection-start-line="1199" selection-start-column="58" selection-end-line="1199" selection-end-column="58" />
+          <caret line="1203" column="58" lean-forward="false" selection-start-line="1203" selection-start-column="58" selection-end-line="1203" selection-end-column="58" />
+          <caret line="1209" column="58" lean-forward="false" selection-start-line="1209" selection-start-column="58" selection-end-line="1209" selection-end-column="58" />
+          <caret line="1209" column="138" lean-forward="false" selection-start-line="1209" selection-start-column="138" selection-end-line="1209" selection-end-column="138" />
+          <caret line="1213" column="58" lean-forward="false" selection-start-line="1213" selection-start-column="58" selection-end-line="1213" selection-end-column="58" />
+          <caret line="1217" column="58" lean-forward="false" selection-start-line="1217" selection-start-column="58" selection-end-line="1217" selection-end-column="58" />
+          <caret line="1221" column="58" lean-forward="false" selection-start-line="1221" selection-start-column="58" selection-end-line="1221" selection-end-column="58" />
+          <caret line="1221" column="138" lean-forward="false" selection-start-line="1221" selection-start-column="138" selection-end-line="1221" selection-end-column="138" />
+          <caret line="1224" column="54" lean-forward="false" selection-start-line="1224" selection-start-column="54" selection-end-line="1224" selection-end-column="54" />
+          <caret line="1230" column="54" lean-forward="false" selection-start-line="1230" selection-start-column="54" selection-end-line="1230" selection-end-column="54" />
+          <caret line="1237" column="54" lean-forward="false" selection-start-line="1237" selection-start-column="54" selection-end-line="1237" selection-end-column="54" />
+          <caret line="1248" column="54" lean-forward="false" selection-start-line="1248" selection-start-column="54" selection-end-line="1248" selection-end-column="54" />
+          <caret line="1257" column="54" lean-forward="false" selection-start-line="1257" selection-start-column="54" selection-end-line="1257" selection-end-column="54" />
           <folding>
-            <marker date="1482333844544" expanded="true" signature="46465:46489" ph="..." />
-            <marker date="1482333844544" expanded="true" signature="46470:46489" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46348:46372" ph="..." />
+            <marker date="1482397369294" expanded="true" signature="46353:46372" ph="..." />
           </folding>
         </state>
       </provider>
